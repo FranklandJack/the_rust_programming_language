@@ -12,3 +12,7 @@ Exercises and projects from the "The Rust Programming Language" book
   - [x] Functions
   - [x] Comments
   - [x] Control Flow
+- [x] Understanding Ownership
+  - [x] What is Ownership?
+  - [x] References and Borrowing
+  - [x] The Slice Type
