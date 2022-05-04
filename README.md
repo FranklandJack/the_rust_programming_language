@@ -16,3 +16,7 @@ Exercises and projects from the "The Rust Programming Language" book
   - [x] What is Ownership?
   - [x] References and Borrowing
   - [x] The Slice Type
+- [x] Using Structs to Structure Related Data
+  - [x] Defining and Instantiating Structs
+  - [x] An Example Program Using Structs
+  - [x] Method Syntax
